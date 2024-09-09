@@ -1,16 +1,15 @@
-## Hi there 👋
+# silvakmz777
 
-<!--
-**silvakmz22/silvakmz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+boas vindas ao meu perfil!🖤🤍
 
-Here are some ideas to get you started:
+meu nome é gabriel da silva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando na [ALURA](www.alura.com.br)
+- estou me desenvolvendo na linguagem java script
+- utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+
+# voce pode falar comigo pelo gmail 🚩
+
+gstxhsjxr@gmail.com
+
+![](https://media1.tenor.com/m/0Ts0WuOdIloAAAAC/messi-shirt.gif)
